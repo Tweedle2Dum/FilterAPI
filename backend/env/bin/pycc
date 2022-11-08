@@ -1,0 +1,3 @@
+#!/home/TweedleDum/Projects/FilterAPI/backend/env/bin/python3
+from numba.pycc import main
+main()
